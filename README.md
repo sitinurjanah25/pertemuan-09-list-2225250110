@@ -53,3 +53,16 @@ Batas kelulusan yang digunakan adalah nilai minimal 60.
 
 ## Refleksi
 Melalui tugas ini, saya mempelajari cara membuat dan mengakses list, mengubah data dalam list, menghitung statistik sederhana, menyaring nilai berdasarkan kondisi, serta menggunakan fungsi untuk membuat program lebih terstruktur.
+
+## Panduan Pengujian
+
+Pengujian dilakukan dengan menjalankan setiap file Python melalui terminal. Program analisis nilai mahasiswa menggunakan 10 data nilai dengan batas kelulusan minimal 60.
+
+Aspek yang diuji:
+- Jumlah data nilai mahasiswa.
+- Perhitungan total dan rata-rata nilai.
+- Penentuan nilai minimum dan maksimum.
+- Penyaringan mahasiswa yang lulus.
+- Penghitungan jumlah mahasiswa yang lulus dan belum lulus.
+
+Program dinyatakan berjalan sesuai harapan apabila hasil yang ditampilkan sesuai dengan perhitungan dari data yang digunakan.
