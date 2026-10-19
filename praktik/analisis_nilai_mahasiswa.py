@@ -14,7 +14,7 @@ def nilai_lulus(data, batas=60):
             hasil.append(x)
     return hasil
 
-
+# Batas kelulusan adalah nilai minimal 60
 # Data nilai 10 mahasiswa
 nilai = [78, 55, 90, 67, 60, 82, 45, 71, 88, 59]
 
